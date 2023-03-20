@@ -11,7 +11,8 @@
 #### Connect with me:
 
 [<img align="left" alt="vsevolodnedora.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="morethanpriors | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="morethanpriors | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
+
 
 
 ### Languages and Tools
@@ -30,6 +31,20 @@
 </a>
 <a href="https://github.com/partumsomnia/MagnetarSpinDown">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=partumsomnia&repo=MagnetarSpinDown&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/partumsomnia/CppLectures">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=partumsomnia&repo=CppLectures&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
+<a href="https://github.com/partumsomnia/stellar_winds">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=partumsomnia&repo=stellar_winds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/partumsomnia/arxive">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=partumsomnia&repo=arxive&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
+<a href="https://github.com/partumsomnia/PyBlastAfterglowMag">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=partumsomnia&repo=PyBlastAfterglowMag&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 
