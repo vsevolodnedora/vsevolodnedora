@@ -40,12 +40,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=partumsomnia&repo=stellar_winds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/partumsomnia/arxive">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=partumsomnia&repo=arxive&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/partumsomnia/PyBlastAfterglow">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=partumsomnia&repo=PyBlastAfterglow&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
 
 
 
