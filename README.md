@@ -26,22 +26,22 @@
 
 ### Interesting repositories
 
-<a href="https://github.com/partumsomnia/bns_ppr_tools">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=partumsomnia&repo=bns_ppr_tools&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/vsevolodnedora/bns_ppr_tools">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=bns_ppr_tools&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://github.com/partumsomnia/MagnetarSpinDown">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=partumsomnia&repo=MagnetarSpinDown&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="https://github.com/partumsomnia/CppLectures">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=partumsomnia&repo=CppLectures&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/partumsomnia/stellar_winds">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=partumsomnia&repo=stellar_winds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/vsevolodnedora/MagnetarSpinDown">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=MagnetarSpinDown&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/partumsomnia/arxive">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=partumsomnia&repo=arxive&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/vsevolodnedora/CppLectures">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=CppLectures&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
+<a href="https://github.com/vsevolodnedora/stellar_winds">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=stellar_winds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/vsevolodnedora/arxive">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=arxive&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 
