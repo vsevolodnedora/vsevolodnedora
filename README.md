@@ -18,10 +18,10 @@
 ### Languages and Tools
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=partumsomnia&count_private=true&show_icons=true&theme=tokyonight&hide_borger=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vsevolodnedora&count_private=true&show_icons=true&theme=tokyonight&hide_borger=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=partumsomnia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsevolodnedora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Interesting repositories
