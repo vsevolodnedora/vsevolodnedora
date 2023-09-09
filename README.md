@@ -1,24 +1,30 @@
-### Hello, I am [V. Nedora][website] 
+## [Vsevolod Nedora][website]
+---
 
-## About
-- I’m currently working on a multitude of problems related to multimessenger astrophsycs with compact objects.
-- I’m currently learning neural networks and magnetar physics.
-- I’m looking to collaborate on magnetar, gamma-ray burst and kionova afterglow modelling and parameter inference. 
-- I’m looking for help with hydrodynamic and magnetohydrodynamic simulations of gamma-ray burst and kilonova afterglows.
-- How to reach me: vsevolod.nedora@aei.mpg.de
+Postdoctoral researcher | Max Plank Institute for Gravitational Physics 
+
+💥 I am a computational and data scientist, with experience developing multi-physics simulation and data processing tools involving computational fluid dynamics (CFD) and radiation transport. I have expertise in statistical data analysis, and numerical methods used in CFD and astrophysics. I design systems for scientific computing and data processing.
+
+📝 I also blog about simulation methods, accessible at the undergraduate level, using Python, which you can find here: [https://philip-mocz.medium.com](https://philip-mocz.medium.com)
+
+👉 Follow me on:
+<div class="grid" align="center">
+  <a href="https://vsevolod-nedora.medium.com">
+    <img alt="Follow me on Medium!" title="Vsevolod Nedora's Medium" src="https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/VsevolodNedora">
+    <img alt="Follow me on Twitter!" title="Vsevolod Nedora's Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vsevolodnedora">
+    <img alt="Follow me on GitHub!" title="Vsevolod Nedora's Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/vsevolodnedora">
+    <img alt="Follow me on Linkedin!" title="Vsevolod Nedora's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 
-#### Connect with me:
-
-[<img align="left" alt="vsevolodnedora.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="morethanpriors | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
-
-
-
-### Languages and Tools
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vsevolodnedora&count_private=true&show_icons=true&theme=tokyonight&hide_borger=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsevolodnedora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
