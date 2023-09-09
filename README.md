@@ -1,9 +1,9 @@
 ## [Vsevolod Nedora][website]
----
 
 Postdoctoral researcher | Max Plank Institute for Gravitational Physics 
 
 💥 I am a computational and data scientist, with experience developing multi-physics simulation and data processing tools involving computational fluid dynamics (CFD) and radiation transport. I have expertise in statistical data analysis, and numerical methods used in CFD and astrophysics. I design systems for scientific computing and data processing.
+
 
 📝 I also blog about simulation methods, accessible at the undergraduate level, using Python, which you can find here: [https://philip-mocz.medium.com](https://philip-mocz.medium.com)
 
@@ -26,9 +26,9 @@ Postdoctoral researcher | Max Plank Institute for Gravitational Physics
 
 ---
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsevolodnedora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 ### Interesting repositories
 
