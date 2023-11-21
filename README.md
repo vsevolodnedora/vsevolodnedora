@@ -2,7 +2,7 @@
 
 Postdoctoral researcher | Max Plank Institute for Gravitational Physics 
 
-💥 I am a data scientist and computational astrophysicist, with experience developing multi-physics numerical simulation and data processing tools involving computational fluid dynamics (CFD) and radiation transport (focusing on synchrotron radiation). I have expertise in statistical data analysis, and numerical methods used in CFD and astrophysics. I design systems for scientific computing and data processing.
+💥 I am a data scientist and ML engineer with a background in computational astrophysics. I have experience developing multi-physics numerical simulation and data processing tools involving computational fluid dynamics (CFD) and radiation transport (focusing on synchrotron radiation). In several projects, I tackled statistical data analysis, applying numerical and CFD methods. I design systems for scientific computing and data processing such as PyBlastAfterglow code. 
 Currently, I am working on a variety of GRB and Kilonova afterglow tools for the Max Plank Institute for Gravitational Physics in Potsdam, Germany
 
 <!--
