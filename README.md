@@ -12,8 +12,8 @@ Notable examples of my work include
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=PyBlastAfterglowMag&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/vsevolodnedora/bns_ppr_tools">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=bns_ppr_tools&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=bns_ppr_tools&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
 
 ---
 
@@ -26,8 +26,8 @@ Currently, I am leaving academia and going into Data Science. To this end, and f
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=DataScienceLearning&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/vsevolodnedora/PBA_projects">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=PBA_projects&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=PBA_projects&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
 
 
 You can find me on:
@@ -54,7 +54,7 @@ You can find me on:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsevolodnedora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<!--
+
 ### Interesting repositories
 
 <a href="https://github.com/vsevolodnedora/bns_ppr_tools">
@@ -74,7 +74,6 @@ You can find me on:
 <a href="https://github.com/vsevolodnedora/arxive">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=arxive&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
--->
 
 
 [website]: https://vsevolodnedora.github.io
