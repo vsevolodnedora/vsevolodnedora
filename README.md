@@ -6,6 +6,7 @@ My academic interests lie in the realm of multimessenger astrophysics, where I w
 See my [arxive](https://arxiv.org/search/astro-ph?searchtype=author&query=Nedora,+V) and [iNSPIRE](https://inspirehep.net/authors/1881421). 
 Notable examples of my work include  
 
+
 <a href="https://github.com/vsevolodnedora/PyBlastAfterglowMag">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=PyBlastAfterglowMag&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
@@ -13,7 +14,9 @@ Notable examples of my work include
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=bns_ppr_tools&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
+
 Currently, I am transitioning to industry, specifically into Data Science. To this end, and following my passion, I work on several machine learning projects including gradient boosting and random forest models as well as conditional variational autoencoders (currently applied to the academic data acquired previously)
+
 
 <a href="https://github.com/vsevolodnedora/DataScienceLearning">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=DataScienceLearning&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
@@ -22,7 +25,9 @@ Currently, I am transitioning to industry, specifically into Data Science. To th
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=PBA_projects&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
+
 You can find me on:
+
 
 <div class="grid" align="center">
   <a href="https://vsevolod-nedora.medium.com">
