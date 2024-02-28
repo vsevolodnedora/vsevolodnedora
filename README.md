@@ -1,9 +1,10 @@
-## [Vsevolod Nedora][website]
-
 Welcome here!  
+
+# My academic past
+
 I am [Vsevolod Nedora][website], a postdoctoral researcher at [Max Plank Institute for Gravitational Physics](https://www.aei.mpg.de/person/115999/2784).   
 My academic interests lie in the realm of multimessenger astrophysics, where I worked for the past 5+ years, focusing on software development, data analysis, and modeling. 
-See my [arxive](https://arxiv.org/search/astro-ph?searchtype=author&query=Nedora,+V) and [iNSPIRE](https://inspirehep.net/authors/1881421). 
+See my [arxive](https://arxiv.org/search/astro-ph?searchtype=author&query=Nedora,+V) and [iNSPIRE](https://inspirehep.net/authors/1881421).  
 Notable examples of my work include  
 
 
@@ -12,10 +13,13 @@ Notable examples of my work include
 </a>
 <a href="https://github.com/vsevolodnedora/bns_ppr_tools">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=bns_ppr_tools&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
+</a>  
 
+---
 
-Currently, I am transitioning to industry, specifically into Data Science. To this end, and following my passion, I work on several machine learning projects including gradient boosting and random forest models as well as conditional variational autoencoders (currently applied to the academic data acquired previously)
+# Transition to industry 
+
+Currently, I am leaving academia and going into Data Science. To this end, and following my passion, I work on several machine learning projects including gradient boosting and random forest models as well as conditional variational autoencoders (currently applied to the academic data acquired previously)  
 
 
 <a href="https://github.com/vsevolodnedora/DataScienceLearning">
@@ -23,7 +27,7 @@ Currently, I am transitioning to industry, specifically into Data Science. To th
 </a>
 <a href="https://github.com/vsevolodnedora/PBA_projects">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=PBA_projects&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
+</a>  
 
 
 You can find me on:
