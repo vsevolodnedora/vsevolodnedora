@@ -1,11 +1,20 @@
-Welcome here!  
-
-# My academic past
+# Welcome here!  
 
 I am [Vsevolod Nedora][website], a postdoctoral researcher at [Max Plank Institute for Gravitational Physics](https://www.aei.mpg.de/person/115999/2784).   
-My academic interests lie in the realm of multimessenger astrophysics, where I worked for the past 5+ years, focusing on software development, data analysis, and modeling. 
+Currently, I am leaving academia and going into Data Science. To this end, and following my passion, I work on several machine learning projects 
+including gradient boosting and random forest models as well as conditional variational autoencoders 
+(currently applied to the academic data acquired previously) that can be found in [PBA_projects](https://github.com/vsevolodnedora/PBA_projects).   
+
+In my academic career I worked in multimessenger and high-energy astrophysics, focusing on software development, data analysis, and modeling.  
+Specifically, I am the main author of the numerical code for gamma-ray burst and kilonova afterglows 
+[PyBlastAfterglow](https://github.com/vsevolodnedora/PyBlastAfterglowMag) and post-processing pipeline for the general relativistic hydrodynamic code WhiskyTHC 
+[bns-ppr-tools](https://github.com/vsevolodnedora/bns_ppr_tools). I also worked in statistical data analysis and modeling of the neutron star merger ejecta properties. 
+The resulting [model](https://iopscience.iop.org/article/10.1088/1361-6382/ac35a8) and [dataset](https://zenodo.org/records/4283517) are widely used by the community.  
+
 See my [arxive](https://arxiv.org/search/astro-ph?searchtype=author&query=Nedora,+V) and [iNSPIRE](https://inspirehep.net/authors/1881421).  
-Notable examples of my work include  
+
+
+### My main projects
 
 
 <a href="https://github.com/vsevolodnedora/PyBlastAfterglowMag">
@@ -15,13 +24,6 @@ Notable examples of my work include
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=bns_ppr_tools&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
----
-
-# Transition to industry 
-
-Currently, I am leaving academia and going into Data Science. To this end, and following my passion, I work on several machine learning projects including gradient boosting and random forest models as well as conditional variational autoencoders (currently applied to the academic data acquired previously)  
-
-
 <a href="https://github.com/vsevolodnedora/DataScienceLearning">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=DataScienceLearning&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
@@ -30,7 +32,7 @@ Currently, I am leaving academia and going into Data Science. To this end, and f
 </a>
 
 
-You can find me on:
+### You can find me on
 
 
 <div class="grid" align="center">
@@ -54,7 +56,7 @@ You can find me on:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsevolodnedora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+<!--
 ### Interesting repositories
 
 <a href="https://github.com/vsevolodnedora/bns_ppr_tools">
@@ -74,7 +76,7 @@ You can find me on:
 <a href="https://github.com/vsevolodnedora/arxive">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=arxive&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-
+-->
 
 [website]: https://vsevolodnedora.github.io
 [twitter]: https://twitter.com/vsevolodnedora
