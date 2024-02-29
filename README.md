@@ -13,6 +13,23 @@ The resulting [model](https://iopscience.iop.org/article/10.1088/1361-6382/ac35a
 
 See my [arxive](https://arxiv.org/search/astro-ph?searchtype=author&query=Nedora,+V) and [iNSPIRE](https://inspirehep.net/authors/1881421).  
 
+### You can find me on
+
+
+<div class="grid" align="center">
+  <a href="https://vsevolod-nedora.medium.com">
+    <img alt="Follow me on Medium!" title="Vsevolod Nedora's Medium" src="https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/VsevolodNedora">
+    <img alt="Follow me on Twitter!" title="Vsevolod Nedora's Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vsevolodnedora">
+    <img alt="Follow me on GitHub!" title="Vsevolod Nedora's Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/vsevolodnedora">
+    <img alt="Follow me on Linkedin!" title="Vsevolod Nedora's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 ### My main projects
 
@@ -32,23 +49,7 @@ See my [arxive](https://arxiv.org/search/astro-ph?searchtype=author&query=Nedora
 </a>
 
 
-### You can find me on
 
-
-<div class="grid" align="center">
-  <a href="https://vsevolod-nedora.medium.com">
-    <img alt="Follow me on Medium!" title="Vsevolod Nedora's Medium" src="https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/VsevolodNedora">
-    <img alt="Follow me on Twitter!" title="Vsevolod Nedora's Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://github.com/vsevolodnedora">
-    <img alt="Follow me on GitHub!" title="Vsevolod Nedora's Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/vsevolodnedora">
-    <img alt="Follow me on Linkedin!" title="Vsevolod Nedora's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
 
 
 ---
