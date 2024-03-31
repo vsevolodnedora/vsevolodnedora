@@ -2,15 +2,16 @@
 
 
 I am [Vsevolod Nedora][website], a postdoctoral researcher at [Max Plank Institute for Gravitational Physics](https://www.aei.mpg.de/person/115999/2784).   
-Currently, I am leaving academia and going into Data Science. To this end, and following my passion, I work on several machine learning projects 
-including gradient boosting and random forest models as well as conditional variational autoencoders 
-(currently applied to the academic data acquired previously) that can be found in [PBA_projects](https://github.com/vsevolodnedora/PBA_projects).   
 
 In my academic career I worked in multimessenger and high-energy astrophysics, focusing on software development, data analysis, and modeling.  
 Specifically, I am the main author of the numerical code for gamma-ray burst and kilonova afterglows 
 [PyBlastAfterglow](https://github.com/vsevolodnedora/PyBlastAfterglowMag) and post-processing pipeline for the general relativistic hydrodynamic code WhiskyTHC 
 [bns-ppr-tools](https://github.com/vsevolodnedora/bns_ppr_tools). I also worked in statistical data analysis and modeling of the neutron star merger ejecta properties. 
 The resulting [model](https://iopscience.iop.org/article/10.1088/1361-6382/ac35a8) and [dataset](https://zenodo.org/records/4283517) are widely used by the community.  
+
+I have a strong interest in machine learning and data science. To this end, and following my passion, I work on several machine learning projects 
+including gradient boosting and random forest models as well as conditional variational autoencoders 
+(currently applied to the academic data acquired previously) that can be found in [PBA_projects](https://github.com/vsevolodnedora/PBA_projects).   
 
 See my [arxive](https://arxiv.org/search/astro-ph?searchtype=author&query=Nedora,+V) and [iNSPIRE](https://inspirehep.net/authors/1881421).  
 
