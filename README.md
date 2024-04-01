@@ -9,7 +9,7 @@ Specifically, I am the main author of the numerical code for gamma-ray burst and
 [bns-ppr-tools](https://github.com/vsevolodnedora/bns_ppr_tools). I also worked in statistical data analysis and modeling of the neutron star merger ejecta properties. 
 The resulting [model](https://iopscience.iop.org/article/10.1088/1361-6382/ac35a8) and [dataset](https://zenodo.org/records/4283517) are widely used by the community.  
 
-I have a strong interest in machine learning and data science. To this end, and following my passion, I work on several machine learning projects 
+I have a strong interest in machine learning and data science. The result of this interest includes several machine learning projects 
 including gradient boosting and random forest models as well as conditional variational autoencoders 
 (currently applied to the academic data acquired previously) that can be found in [PBA_projects](https://github.com/vsevolodnedora/PBA_projects).   
 
