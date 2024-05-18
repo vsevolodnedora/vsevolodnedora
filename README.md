@@ -55,7 +55,8 @@ See my [arxive](https://arxiv.org/search/astro-ph?searchtype=author&query=Nedora
 </a>
 
 
-
+[website]: https://vsevolodnedora.github.io
+[twitter]: https://twitter.com/vsevolodnedora
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsevolodnedora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
