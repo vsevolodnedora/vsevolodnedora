@@ -6,7 +6,7 @@ I am [Vsevolod Nedora][website], a postdoctoral researcher at [Max Plank Institu
 In my academic career, I worked in multimessenger and high-energy astrophysics, focusing on software development, data analysis, and modeling.  
 Specifically, I am the main author of the numerical code for gamma-ray burst and kilonova afterglows 
 [PyBlastAfterglow](https://github.com/vsevolodnedora/PyBlastAfterglowMag) and post-processing pipeline for the general relativistic hydrodynamic code WhiskyTHC 
-[bns-ppr-tools](https://github.com/vsevolodnedora/bns_ppr_tools). I also worked in statistical data analysis and modeling of the neutron star merger ejecta properties. 
+[bns-ppr-tools](https://github.com/vsevolodnedora/bns_ppr_tools). I also worked on statistical data analysis and modeling of the neutron star merger ejecta properties. 
 The resulting [model](https://iopscience.iop.org/article/10.1088/1361-6382/ac35a8) and [dataset](https://zenodo.org/records/4283517) are widely used by the community.  
 
 Currently, I am working on several machine learning and data science projects 
