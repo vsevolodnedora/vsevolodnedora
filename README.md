@@ -15,7 +15,7 @@ including gradient boosting and random forest models, as well as conditional var
 
 See my [arxive](https://arxiv.org/search/astro-ph?searchtype=author&query=Nedora,+V) and [iNSPIRE](https://inspirehep.net/authors/1881421).  
 
-### You can also find me on
+### You can also find me:
 
 
 <div class="grid" align="center">
