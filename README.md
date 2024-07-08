@@ -3,7 +3,7 @@
 
 I am [Vsevolod Nedora][website], a postdoctoral researcher at [Max Plank Institute for Gravitational Physics](https://www.aei.mpg.de/person/115999/2784).   
 
-In my academic career, I worked in multimessenger and high-energy astrophysics, focusing on software development, data analysis, and modeling.  
+In my academic career, I worked in multimessenger and high-energy astrophysics, focusing on software development, data analysis and modeling.  
 Specifically, I am the main author of the numerical code for gamma-ray burst and kilonova afterglows 
 [PyBlastAfterglow](https://github.com/vsevolodnedora/PyBlastAfterglowMag) and post-processing pipeline for the general relativistic hydrodynamic code WhiskyTHC 
 [bns-ppr-tools](https://github.com/vsevolodnedora/bns_ppr_tools). 
