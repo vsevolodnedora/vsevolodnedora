@@ -15,6 +15,8 @@ Currently, I am working on several machine learning and data science projects
 including gradient boosting and random forest models, as well as conditional variational autoencoders 
 (currently applied to the academic data acquired previously) that can be found in [PBA_projects](https://github.com/vsevolodnedora/PBA_projects).   
 
+I am also working on the time-series forecasting model that will be in my portfolio soon!
+
 See my [arxive](https://arxiv.org/search/astro-ph?searchtype=author&query=Nedora,+V) and [iNSPIRE](https://inspirehep.net/authors/1881421).  
 
 ### You can also find me here:
