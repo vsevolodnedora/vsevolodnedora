@@ -23,7 +23,7 @@ See my [arxive](https://arxiv.org/search/astro-ph?searchtype=author&query=Nedora
 
 
 <div class="grid" align="center">
-  <a href="https://vsevolod-nedora.medium.com">
+  <a href="https://medium.com/@vsevolod.nedora">
     <img alt="Follow me on Medium!" title="Vsevolod Nedora's Medium" src="https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
   </a>
   <a href="https://twitter.com/VsevolodNedora">
