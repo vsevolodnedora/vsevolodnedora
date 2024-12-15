@@ -57,6 +57,11 @@ Whether you're interested in open-source projects, innovative forecasting techni
 <a href="https://github.com/vsevolodnedora/PyBlastAfterglowMag">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=PyBlastAfterglowMag&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
+<a href="https://github.com/vsevolodnedora/energy_market_analysis">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=energy_market_analysis&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<!--
 <a href="https://github.com/vsevolodnedora/bns_ppr_tools">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=bns_ppr_tools&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
@@ -71,7 +76,7 @@ Whether you're interested in open-source projects, innovative forecasting techni
 <a href="https://github.com/vsevolodnedora/WaveEqutionPrj">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vsevolodnedora&repo=WaveEqutionPrj&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-
+-->
 
 [website]: https://vsevolodnedora.github.io
 [twitter]: https://twitter.com/vsevolodnedora
