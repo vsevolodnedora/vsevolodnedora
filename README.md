@@ -14,7 +14,9 @@ For more details, see my [arXiv](https://arxiv.org/search/astro-ph?searchtype=au
 
 ## Transitioning to Industry  
 
-Inspired by my academic coding and analytical experience, I am now focused on leveraging data science and machine learning to tackle real-world challenges, particularly in the energy sector. My current portfolio project is an [MLOps pipeline for electricity price forecasting](https://github.com/vsevolodnedora/energy_market_analysis) in Germany. Key features of this project include:  
+Now, I am focused on leveraging data science and machine learning to tackle real-world challenges, particularly in the energy sector. 
+My current portfolio project is an [MLOps pipeline for electricity price forecasting](https://github.com/vsevolodnedora/energy_market_analysis) in Germany. 
+Key features of this project include:  
 
 - **Novelty and Impact**: Forecasting energy market quantities up to a week ahead, enabling participants to optimize operations and reduce costs by proactively responding to long-term trends.  
 - **Automation**: Data collection from APIs (e.g., SMARD, openmeteo) and web scraping (e.g., [epexspot](https://github.com/vsevolodnedora/epex_de_collector)) are fully automated with GitHub Actions.  
