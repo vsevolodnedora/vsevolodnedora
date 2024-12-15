@@ -1,23 +1,35 @@
-# Welcome here!  
+# Welcome to my GitHub!  
 
+I am [Vsevolod Nedora][website], an astrophysicist turned data scientist with a passion for solving complex problems through innovative technology and collaboration. Raised in Vladivostok, Russia, my journey began with an early fascination for engineering and physics, leading me to pursue a career dedicated to understanding the universe and creating tools for scientific discovery.  
 
-I am [Vsevolod Nedora][website], a postdoctoral researcher at [Max Plank Institute for Gravitational Physics](https://www.aei.mpg.de/person/115999/2784).   
+During my academic career at the [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/person/115999/2784), I focused on multimessenger and high-energy astrophysics, specializing in software development, data analysis, and numerical modeling. My contributions include:  
 
-In my academic career, I worked in multimessenger and high-energy astrophysics, focusing on software development, data analysis, and modeling.  
-Specifically, I am the main author of the numerical code for gamma-ray burst and kilonova afterglows. 
-[PyBlastAfterglow](https://github.com/vsevolodnedora/PyBlastAfterglowMag) and post-processing pipeline for the general relativistic hydrodynamic code WhiskyTHC 
-[bns-ppr-tools](https://github.com/vsevolodnedora/bns_ppr_tools). 
+- **Numerical Simulations**: Lead developer of [PyBlastAfterglow](https://github.com/vsevolodnedora/PyBlastAfterglowMag), a numerical code for modeling gamma-ray burst (GRB) and kilonova afterglows, and the post-processing pipeline [bns-ppr-tools](https://github.com/vsevolodnedora/bns_ppr_tools) for the general relativistic hydrodynamic code WhiskyTHC.  
+- **Data Modeling**: Statistical analysis and modeling of neutron star merger ejecta properties, culminating in a widely adopted [model](https://iopscience.iop.org/article/10.1088/1361-6382/ac35a8) and [dataset](https://zenodo.org/records/4283517).  
+- **Machine Learning**: Designed a [conditional variational autoencoder (CVAE)](https://github.com/vsevolodnedora/ml_experiments) for fast inference on synthetic GRB data, laying the foundation for efficient data processing pipelines.  
 
-I also worked on statistical data analysis and modeling of the neutron star merger ejecta properties. 
-The resulting [model](https://iopscience.iop.org/article/10.1088/1361-6382/ac35a8) and [dataset](https://zenodo.org/records/4283517) are widely used by the community.  
+For more details, see my [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Nedora,+V) and [INSPIRE](https://inspirehep.net/authors/1881421) profiles.  
 
-Currently, I am working on several machine learning and data science projects 
-including gradient boosting and random forest models, as well as conditional variational autoencoders 
-(currently applied to the academic data acquired previously) that can be found in [PBA_projects](https://github.com/vsevolodnedora/PBA_projects).   
+---
 
-I am also working on the time-series forecasting model that will be in my portfolio soon!
+## Transitioning to Industry  
 
-See my [arxive](https://arxiv.org/search/astro-ph?searchtype=author&query=Nedora,+V) and [iNSPIRE](https://inspirehep.net/authors/1881421).  
+Inspired by my academic coding and analytical experience, I am now focused on leveraging data science and machine learning to tackle real-world challenges, particularly in the energy sector. My current portfolio project is an [MLOps pipeline for electricity price forecasting](https://github.com/vsevolodnedora/energy_market_analysis) in Germany. Key features of this project include:  
+
+- **Novelty and Impact**: Forecasting energy market quantities up to a week ahead, enabling participants to optimize operations and reduce costs by proactively responding to long-term trends.  
+- **Automation**: Data collection from APIs (e.g., SMARD, openmeteo) and web scraping (e.g., [epexspot](https://github.com/vsevolodnedora/epex_de_collector)) are fully automated with GitHub Actions.  
+- **Scalability**: Plans to extend the pipeline to forecast prices across multiple European countries using additional collectors ([nordpool](https://github.com/vsevolodnedora/nordpool_collector), [energy-charts](https://github.com/vsevolodnedora/energy_charts_collector)).  
+- **CI/CD Integration**: Hosting and deployment using GitHub Pages, showcasing real-world applications of DevOps principles.  
+
+In addition, I aim to integrate generative AI tools into the project for automated report generation, merging insights from forecasted data and external sources like news and market analyses.
+
+---
+
+## Let’s Collaborate  
+
+I am enthusiastic about connecting with professionals and researchers who share my passion for technology, data science, and impactful projects. 
+My journey from academia to industry has been shaped by a commitment to growth and collaboration. 
+Whether you're interested in open-source projects, innovative forecasting techniques, or interdisciplinary discussions, I’d love to hear from you!  
 
 ### You can also find me here:
 
